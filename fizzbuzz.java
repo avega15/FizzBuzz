@@ -1,4 +1,4 @@
-//The famouse Fizz Buzz question!
+//The famous Fizz Buzz question!
 //Print Fizz if divisible by 3, Buzz if divisible by 5, FizzBuzz if divisible my 3 and 5!
 public class fizzbuzz{
 	public static void main(String[] args) {
