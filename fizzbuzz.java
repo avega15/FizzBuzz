@@ -15,11 +15,11 @@ public class fizzbuzz{
 		if(number % 3 == 0 && number % 5 == 0){
 			return "FizzBuzz";
 		}
-		//Check if divisble by 3
+		//Check if divisible by 3
 		if(number % 3 == 0){
 			return "Fizz";
 		}
-		//Check if divisble by 5
+		//Check if divisible by 5
 		if(number % 5 == 0){
 			return "Buzz";
 		}
